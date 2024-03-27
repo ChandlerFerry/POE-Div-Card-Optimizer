@@ -1,5 +1,13 @@
 export const cardPriceOverrides = [
 	{
+		cardName: 'Humility',
+		cardValue: 0.55,
+	},
+	{
+		cardName: 'Vanity',
+		cardValue: 0.55,
+	},
+	{
 		cardName: 'The Chains that Bind',
 		cardValue: 0.83,
 	},
