@@ -1,7 +1,7 @@
-# POE-Div-Card-Optimizer
+# [OUTDATED] POE-Div-Card-Optimizer
 Calculates optimal Favored Maps for Divination Scarab of Completion + Curation
 
-**OUTDATED - Optimized By NerdyJoe314 Using Integer Programming & SCIP OVER ON THEIR REPO**
+**Optimized By NerdyJoe314 Using Integer Programming & SCIP OVER ON THEIR REPO**
 https://github.com/nerdyjoe314/divinationscarabs
 
 ---
